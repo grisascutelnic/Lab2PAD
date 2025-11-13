@@ -8,7 +8,7 @@ import java.sql.SQLException;
 
 //create database lab;
 //USE lab;
-//
+//d
 //CREATE TABLE employees (
 //        id INT PRIMARY KEY,
 //        name VARCHAR(255)

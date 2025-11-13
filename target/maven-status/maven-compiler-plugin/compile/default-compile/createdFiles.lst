@@ -1,0 +1,7 @@
+labs\partea1\DWServer.class
+labs\partea1\MySQLConnector.class
+labs\partea1\controllers\EmployeeController.class
+labs\partea2\ProxyServer.class
+labs\partea1\model\Employee.class
+labs\partea1\model\EmployeeList.class
+labs\partea2\RedisCacheManager.class

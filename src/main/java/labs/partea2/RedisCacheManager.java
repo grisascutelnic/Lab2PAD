@@ -16,4 +16,8 @@ public class RedisCacheManager {
     public void set(String key, String value, int ttlSeconds) {
         jedis.setex(key, ttlSeconds, value);
     }
+    public void invalidateAll() {
+        jedis.flushAll();
+    }
+
 }
